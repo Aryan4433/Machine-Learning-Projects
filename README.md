@@ -1,3 +1,6 @@
+![ViewCount](https://views.whatilearened.today/views/github/Aryan4433/Machine-Learning-projects.svg?cache=remove)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aryan4433/Machine-Learning-projects?style=flat)
+
 <h1 align="center">Hi 👋, I'm Aryan Monga </h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
