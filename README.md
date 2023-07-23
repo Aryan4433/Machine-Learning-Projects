@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Monga r</h1>
+<h1 align="center">Hi 👋, I'm Aryan Monga </h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
